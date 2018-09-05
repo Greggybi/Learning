@@ -1,0 +1,8 @@
+il va s'agir que ça rentre donc détaillons les étapes:
+
+1 git init dans repertoire local pour creer repository
+2 git status pour verifier l'etat de son repository
+3 création et modification de fichiers (touch + vim...)
+4 git add pour ajouter le nouveau fichier à l'index de Git
+5 git commit pour executer un commit (git commit -m "description du commit")
+6 git push origin master (pour envoyer sur github)
